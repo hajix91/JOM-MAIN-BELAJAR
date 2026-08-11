@@ -6,5 +6,6 @@ Demo permainan pembelajaran percuma untuk kanak-kanak Tahun 1 dan umur 4–6 tah
 - Tanpa login dan tanpa pangkalan data
 - Mesra telefon
 - Soalan dipilih secara rawak daripada bank soalan yang lebih besar
+- Diterbitkan secara automatik melalui GitHub Pages
 
 Laman: https://hajix91.github.io/JOM-MAIN-BELAJAR/
