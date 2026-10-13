@@ -2,7 +2,7 @@
 
 Laman permainan: https://hajix91.github.io/JOM-MAIN-BELAJAR/misi-persamaan-linear/
 
-Permainan terdiri daripada 10 soalan setiap level, 4 jawapan pilihan bagi setiap soalan, maklum balas serta penjelasan, markah terkini dan markah terbaik. Level 2 dibuka selepas lulus Level 1 (70/100) dan Level 3 selepas lulus Level 2 (80/100). Trofi Emas diberikan apabila Level 3 mencapai sekurang-kurangnya 80/100.
+Permainan terdiri daripada 10 soalan setiap level, 4 jawapan pilihan bagi setiap soalan, maklum balas serta penjelasan, markah terkini dan markah terbaik. Level 2 dibuka selepas lulus Level 1 (80/100) dan Level 3 selepas lulus Level 2 (70/100). Trofi Emas diberikan apabila Level 3 mencapai sekurang-kurangnya 50/100.
 
 ## Fail
 - index.html: antaramuka
@@ -83,10 +83,16 @@ Di Google Sheets, pilih Data > Create a filter pada tab Rekod dan tapis mengikut
 - Pastikan input kosong menghalang mula.
 - Level 2/3 tidak boleh dibuka sebelum level sebelumnya lulus.
 - Semak 10 jawapan per level, setiap soalan 10 markah sahaja.
-- Gagal Level 1 pada 60; lulus pada 70. Gagal Level 2 pada 70; lulus pada 80.
-- Level 3 pada 70 tidak memberi trofi; 80 memberi trofi.
+- Gagal Level 1 pada 70; lulus pada 80. Gagal Level 2 pada 60; lulus pada 70.
+- Level 3 pada 40 tidak memberi trofi; 50 memberi trofi.
 - Ulang level dan pastikan markah terbaik tidak berkurang.
 - Uji mod penerbangan: rekod belum dihantar kekal dalam peranti, kemudian hantar semula selepas sambungan dipulihkan.
 - Jangan padam data pelayar sebelum rekod disahkan dan jangan gunakan mod incognito untuk kegunaan kelas.
 
 Untuk menukar soalan atau menerbitkan perubahan, edit fail di GitHub (branch main), lakukan commit, dan GitHub Pages akan membina semula laman.
+
+## Penambahbaikan Cikgu Nazurah (13 Oktober 2026)
+- Sasaran lulus: Level 1 80/100, Level 2 70/100, Level 3 50/100.
+- Jawapan salah hanya menerima maklum balas 'Jawapan belum tepat', tanpa jawapan sebenar atau penerangan.
+- Tema pink pastel dan kredit 'by Cikgu Nazurah'.
+- Google Sheets: URL Web App **belum diberikan**. Kod di atas tersedia untuk konfigurasi tetapi penghantaran pelayan **belum aktif**.
